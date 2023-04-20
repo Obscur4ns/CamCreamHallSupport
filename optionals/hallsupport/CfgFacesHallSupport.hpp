@@ -103,7 +103,7 @@ class Hall_fish_desert_regular_cream: Hall {
 class Hall_fish_europe_dark_cream: Hall {
     author = ECSTRING(common,ModTeam);
     identityTypes[] = {};
-    material = QPATHTOF(heads\europe\\dark_cream\hall.rvmat);
+    material = QPATHTOF(heads\europe\dark_cream\hall.rvmat);
     materialWounded1 = QPATHTOF(heads\europe\dark_cream\hall_injury.rvmat);
     materialWounded2 = QPATHTOF(heads\europe\dark_cream\hall_injury.rvmat);
     disabled = 1;
