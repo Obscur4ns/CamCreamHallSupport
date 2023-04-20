@@ -41,7 +41,7 @@ class Stage2
 };
 class Stage3
 {
-	texture = "Hall\data\hall_usflas_co.paa";
+	texture = "Hall\data\hall_usflash_co.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
