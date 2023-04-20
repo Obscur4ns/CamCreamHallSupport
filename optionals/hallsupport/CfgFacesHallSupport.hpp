@@ -73,7 +73,7 @@ class Hall_fish_desert_dark_cream: WhiteHead_20 {
     identityTypes[] = {};
     material = QPATHTOF(heads\desert\dark_cream\hall.rvmat);
     materialWounded1 = QPATHTOF(heads\desert\dark_cream\hall_injury.rvmat);
-    materialWounded2 = QPATHTOF(heads\dark_cream\hall_injury.rvmat);
+    materialWounded2 = QPATHTOF(heads\desert\dark_cream\hall_injury.rvmat);
     disabled = 1;
 };
 class Hall_fish_desert_half_cream: WhiteHead_20 {
@@ -105,7 +105,7 @@ class Hall_fish_europe_dark_cream: WhiteHead_20 {
     identityTypes[] = {};
     material = QPATHTOF(heads\europe\\dark_cream\hall.rvmat);
     materialWounded1 = QPATHTOF(heads\europe\dark_cream\hall_injury.rvmat);
-    materialWounded2 = QPATHTOF(heads\dark_cream\hall_injury.rvmat);
+    materialWounded2 = QPATHTOF(heads\europe\dark_cream\hall_injury.rvmat);
     disabled = 1;
 };
 class Hall_fish_europe_half_cream: WhiteHead_20 {
@@ -183,7 +183,7 @@ class Hall_fish_tropical_half_cream: WhiteHead_20 {
 class Hall_fish_tropical_light_cream: WhiteHead_20 {
     author = ECSTRING(common,ModTeam);
     identityTypes[] = {};
-    material = QPATHTOF(heads\light_cream\hall.rvmat);
+    material = QPATHTOF(heads\tropical\light_cream\hall.rvmat);
     materialWounded1 = QPATHTOF(heads\tropical\light_cream\hall_injury.rvmat);
     materialWounded2 = QPATHTOF(heads\tropical\light_cream\hall_injury.rvmat);
     disabled = 1;
@@ -191,7 +191,7 @@ class Hall_fish_tropical_light_cream: WhiteHead_20 {
 class Hall_fish_tropical_regular_cream: WhiteHead_20 {
     author = ECSTRING(common,ModTeam);
     identityTypes[] = {};
-    material = QPATHTOF(heads\regular_cream\hall.rvmat);
+    material = QPATHTOF(heads\tropical\regular_cream\hall.rvmat);
     materialWounded1 = QPATHTOF(heads\tropical\regular_cream\hall_injury.rvmat);
     materialWounded2 = QPATHTOF(heads\tropical\regular_cream\hall_injury.rvmat);
     disabled = 1;
